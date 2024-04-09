@@ -9,8 +9,8 @@
 - WordPress installation with the REST API enabled
 
     >[Amazon Lightsail WordPress Tutorial](https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-tutorial-launching-and-configuring-wordpress)
-- [Chrome](https://www.google.com/chrome/). Ensure you have it installed.
-- [Chromedriver](https://chromedriver.chromium.org/downloads). Download the version compatible with your Chrome. Note: For Mac users, Chromedriver can be easily installed using `brew install chromedriver` if you have Homebrew installed.
+- [Chrome](https://www.google.com/chrome/) - Ensure you have it installed
+- [Chromedriver](https://chromedriver.chromium.org/downloads) - Download the version compatible with your Chrome. Note: For Mac users, Chromedriver can be easily installed using `brew install chromedriver` if you have Homebrew installed.
 
     > Chromedriver version must be compatible with the installed version of Chrome
     
