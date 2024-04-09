@@ -1,7 +1,7 @@
 
-# openBlog
+# Wordpress GPT
 
-**Create a WordPress blog post using the OpenAI gpt-3.5-turbo model.** Streamlined Blogging with OpenAI and WordPress. openBlog integrates OpenAI's GPT-3.5 Turbo with WordPress to auto-generate and publish blog posts. Using AI, it creates articles from your title and pairs them with images from Unsplash for a complete blogging experience.
+**Create a WordPress blog post using the OpenAI gpt-3.5-turbo model.** Streamlined Blogging with OpenAI and WordPress. Wordpress GPT integrates OpenAI's GPT-3.5 Turbo with WordPress to auto-generate and publish blog posts. Using AI, it creates articles from your title and pairs them with images from Unsplash for a complete blogging experience.
 
 ## Prerequisites
 
