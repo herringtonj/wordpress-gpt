@@ -5,10 +5,6 @@
 
 Streamlined Blogging with OpenAI and WordPress. Wordpress GPT integrates OpenAI's GPT-3.5 Turbo with WordPress to auto-generate and publish blog posts. Using AI, it creates articles from your title and pairs them with images from Unsplash for a complete blogging experience.
 
-## Reflections
-
-This project was a deep dive into Python, web scraping, and automation. Along the way, I learned there are many ways to approach these challenges, especially with web scraping. Though I chose certain paths for learning, I'm aware there are more efficient methods out there.
-
 
 ## Prerequisites
 
